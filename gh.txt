@@ -1,0 +1,24 @@
+Non-immersive VR:
+    The player directly interacts with a virtual environment, but the virtual environment does not directly interact with the player 
+        i.e. the player controls the game via input device, but the game's output device does not impact the player 
+    Interact with virual environment without feeling of being immersed inside the virtual environment
+    Player keeps control of the physical surroundings, such as see, feel, smell sense etc 
+
+
+Semi-immersive VR: 
+    Between non-immersive and fully-immersive 
+    Uses only visual effects to achieve semi-immersive vr
+        NO physical feelings provided by the VR 
+    e.g. virtual tours, only require a screen or VR glasses/headset to let the person be involved but is only visual not physical 
+
+Fully-immersive VR: realistic simulation 
+    Realistic virtual experience, including visual AND physical feel 
+    Feels as in the virtual experience is actually happening 
+    Equipment can involve VR glasses/headset, AND: VR gloves, body detector, movement sensor to help provide realistic experience 
+
+
+
+IMMERSIVE VS NON IMMERSIVE:
+    IMMERSIVE: Aim to isolate the user from the physical world, and become involved inside the virual world as much as possible 
+        Equipment used: 
+    NON IMMERSIVE: Does not aim to isolate the user from the physical world, the user may still interact with both easily
