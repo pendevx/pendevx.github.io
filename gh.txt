@@ -22,3 +22,38 @@ IMMERSIVE VS NON IMMERSIVE:
     IMMERSIVE: Aim to isolate the user from the physical world, and become involved inside the virual world as much as possible 
         Equipment used: 
     NON IMMERSIVE: Does not aim to isolate the user from the physical world, the user may still interact with both easily
+
+
+Usages of VR:
+    Automotive - allows engineers and designers to work in a virtual environment to create vehicles and prototypes which is cheaper and doesn't require using real items, saving money
+    Healthcare - allows doctors and surgeons to try and check what works without having to harm a real person, allows for gaining experience and preparation before performing actual surgery
+        Also can be used to help patients with mental health issues, use VR therapy 
+    Retail - newer, more realistic version of online shopping 
+    Tourism - see places for cheaper using just VR technology
+    Architecture - easy to see structure and easy to modify a building, good for the architect and any other viewers 
+    Job recruitment - have interview much more easily from just home without needing to go out
+    Entertainment - watch videos and stuff in more realistic view
+    Education - allow students to learn in a better more suitable environment per subject/topic, just go to that place and help students to learn better 
+    Meetings - now everybody can go to meeting without excuse, and is much more suitable for people who need to go overseas or travel long distance to a meeting 
+    Wellbeing - let user find and choose their own more comfortable place or virtual space, can relieve stress etc 
+    Social - allow people to be together without actually being together 
+
+
+Advantages of VR:
+    Saves time from many jobs 
+    Saves the user having to move around to the physical location, which is waste of body energy
+    Saves money for many industrial operations 
+
+
+Hardware used in VR:
+    non immersive:
+        mouse 
+        monitor 
+        keyboard 
+        phone screen 
+    semi/full immersive:
+        gyroscopes and motion sensors for tracking head, body, and hand positions 
+        HD screens for display 
+        360 degree cameras 
+        VR headset 
+        3d mouse, wired glove, motion controllers, optical tracking sensors 
