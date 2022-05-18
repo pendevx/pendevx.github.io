@@ -1,4 +1,8 @@
-https://www.starsandstrikes.com/blog/different-types-of-virtual-reality/
-https://cyberpulse.info/what-is-non-immersive-virtual-reality-definition-examples/
-https://virtualspeech.com/blog/vr-applications
-https://en.wikipedia.org/wiki/Virtual_reality
+for the pptx:
+    https://www.starsandstrikes.com/blog/different-types-of-virtual-reality/
+    https://cyberpulse.info/what-is-non-immersive-virtual-reality-definition-examples/
+    https://virtualspeech.com/blog/vr-applications
+    https://en.wikipedia.org/wiki/Virtual_reality
+
+other:
+    https://www.reddit.com/r/oculus/comments/83fmao/how_much_harder_to_develop_a_vr_game/
