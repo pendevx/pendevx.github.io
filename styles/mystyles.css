@@ -2,8 +2,8 @@
    padding-left: 11em;
    font-family: Georgia, "Times New Roman",
           Times, serif;
-		  color: purple;
-    background-color: #d8da3d }
+		  color: #CBD4C2;
+    background-color: #01161E }
 	 ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -16,17 +16,24 @@
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
 		ul.navbar li {
-    background: white;
+    background: #124559;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    border-right: 1em solid #DBEBC0 }
   ul.navbar a {
     text-decoration: none }
   a:link {
-    color: blue }
+    color: #DBEBC0 }
   a:visited {
-    color: purple }
+    color: #CBD4C2 }
 	address {
     margin-top: 1em;
     padding-top: 1em;
     border-top: thin dotted }
+    .header {
+      padding: 60px;
+      text-align: center;
+      background: #124559;
+      color: #CBD4C2;
+      font-size: 30px;
+    }
