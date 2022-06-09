@@ -37,3 +37,25 @@
       color: #CBD4C2;
       font-size: 30px;
     }
+    .headerpage {
+      padding: 40px;
+      text-align: center;
+      background: #124559;
+      color: #CBD4C2;
+      font-size: 20px;
+    }
+    .center {
+      margin-left: 200px;
+      margin-right: 200px;
+      width: 20%;
+    }
+    .left { 
+      margin-left: left;
+      margin-right: auto;
+      width: 20%;
+    }
+    .right {
+      margin-left: auto;
+      margin-right: right;
+      width: 25%;
+    }
