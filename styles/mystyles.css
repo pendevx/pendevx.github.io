@@ -78,13 +78,13 @@ address {
 	width: 25%;
 }
 
-.choices .column {
+.choices .column, .opportunities .column {
 	float: left;
 	width: 30%;
 	padding: 0 0.5% 0 0.5%;
 }
 
-.choices:after {
+.choices:after, .opportunities:after {
 	content: "";
 	display: table;
 	clear: both;
