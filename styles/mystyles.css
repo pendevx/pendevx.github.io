@@ -89,3 +89,15 @@ address {
 	display: table;
 	clear: both;
 }
+
+.risks .column {
+	float:left;
+	width: 49%;
+	padding: 0 0.5% 0 0.5%;
+}
+
+.risks:after {
+	content: "";
+	display: table;
+	clear: both;
+}
