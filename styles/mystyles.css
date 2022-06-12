@@ -1,8 +1,8 @@
 body {
   	padding-left: 11em;
-  	font-family: Georgia, "Times New Roman", Times, serif;
+  	font-family: Calibri;
     color: #CBD4C2;
-  	background-color: #01161E 
+	background-image: url('polygonbackground.jpg');
 }
 
 ul.navbar {
@@ -10,7 +10,7 @@ ul.navbar {
 	padding: 0;
 	margin: 0;
 	position: absolute;
-	top: 2em;
+	top: 14em;
 	left: 1em;
 	width: 10em 
 }
@@ -20,7 +20,7 @@ h1 {
 }
 
 ul.navbar li {
-	background: #124559;
+	background: #0a2e3c;
 	margin: 0.5em 0;
 	padding: 0.3em;
 	border-right: 1em solid #DBEBC0 
@@ -44,20 +44,27 @@ address {
 	border-top: thin dotted 
 }
 
-.header {
-	padding: 60px;
-	text-align: center;
-	background: #124559;
-	color: #CBD4C2;
-	font-size: 30px;
-}
-
 .headerpage {
 	padding: 40px;
 	text-align: center;
-	background: #124559;
 	color: #CBD4C2;
-	font-size: 20px;
+	font-size: 25px;
+}
+
+.bodytext {
+	margin-left: 70px;
+	margin-right: 70px;
+	text-align: center;
+	color: #CBD4C2;
+	font-size: 15px;
+}
+
+.bodytext1 .column {
+	float: left;
+	width: 30%;
+	padding: 0 1% 0 1%;
+	color: #CBD4C2;
+	font-size: 15px;
 }
 
 .center {
@@ -69,13 +76,13 @@ address {
 .left { 
 	margin-left: left;
 	margin-right: auto;
-	width: 20%;
+	width: 25%;
 }
 
 .right {
 	margin-left: auto;
 	margin-right: right;
-	width: 25%;
+	width: 22%;
 }
 
 .choices .column, .opportunities .column {
